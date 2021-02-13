@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "faqforms",
+  "info": {
+    "name": "faqform"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "header": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string"
+    },
+    "footer": {
+      "type": "string"
+    }
+  }
+}
