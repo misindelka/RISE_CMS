@@ -9,8 +9,11 @@
     "timestamps": true
   },
   "attributes": {
-    "name": {
+    "title": {
       "type": "string"
+    },
+    "content": {
+      "type": "richtext"
     }
   }
 }

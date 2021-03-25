@@ -9,13 +9,19 @@
     "timestamps": true
   },
   "attributes": {
-    "name": {
+    "title": {
       "type": "string"
     },
-    "adress": {
-      "type": "text"
+    "streetName": {
+      "type": "string"
     },
-    "image": {
+    "country": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "email": {
       "type": "string"
     }
   }

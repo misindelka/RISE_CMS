@@ -14,18 +14,6 @@
     },
     "answer": {
       "type": "text"
-    },
-    "name": {
-      "type": "string"
-    },
-    "image": {
-      "type": "string"
-    },
-    "header": {
-      "type": "string"
-    },
-    "footer": {
-      "type": "string"
     }
   }
 }
